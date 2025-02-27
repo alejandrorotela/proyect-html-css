@@ -1,0 +1,24 @@
+p{
+    color: blue;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    text-align: justify;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+span{
+    text-decoration: line-through;
+    color: sienna;
+}
+li{
+    color: gray;
+}
+#titulo-importante{
+    color:yellow;
+}
+.peso{
+    color: red;
+}
+
